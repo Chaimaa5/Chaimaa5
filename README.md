@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 [![cel-mhan's 42 stats](https://badge42.vercel.app/api/v2/cl4yc8biu007809ib40m43upc/stats?cursusId=21&coalitionId=77)](https://github.com/JaeSeoKim/badge42)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaimaa5&layout=compact)](https://github.com/Chaimaa5/github-readme-stats)
-[![Chama's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chaimaa5)](https://github.com/Chaimaa5/github-readme-stats)
