@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![cel-mhan's 42 stats](https://badge42.vercel.app/api/v2/cl4yc8biu007809ib40m43upc/stats?cursusId=21&coalitionId=77)](https://github.com/JaeSeoKim/badge42)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaimaa5&layout=compact)](https://github.com/Chaimaa5/github-readme-stats)
+[![cel-mhan's 42 stats](https://badge.mediaplus.ma/binary/cel-mhan)](https://github.com/oakoudad/badge42)
