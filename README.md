@@ -6,7 +6,6 @@
 Here are some ideas to get you started:
 -->
 
-- 🌱 I’m currently learning C++ and Angular
 - 📫 How to reach me: Chaimaa.elmhandez@gmail.com
 
 [![cel-mhan's 42 stats](https://badge.mediaplus.ma/binary/cel-mhan)](https://github.com/oakoudad/badge42)
