@@ -11,3 +11,4 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaimaa5&layout=compact)
 
 [![cel-mhan's 42 stats](https://badge.mediaplus.ma/binary/cel-mhan)](https://github.com/oakoudad/badge42)
+[![<cel-mhan>'s 42 stats](https://badge.mediaplus.ma/binary/cel-mhan)](https://github.com/oakoudad/badge42)
